@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evgeniy’s Engineering Blog</title>
+    <link>https://evgeniykapelko.github.io/</link>
+    <description>Recent content on Evgeniy’s Engineering Blog</description>
+    <generator>Hugo -- 0.146.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://evgeniykapelko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Started This Engineering Blog</title>
+      <link>https://evgeniykapelko.github.io/posts/first-post/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://evgeniykapelko.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Today I’m launching my personal engineering blog.&lt;/p&gt;
+&lt;p&gt;Over the years, I’ve realized that reading books, watching talks, and building things is not enough if you don’t reflect on what you learn. Writing helps me structure my thoughts, spot gaps in my understanding, and turn scattered knowledge into something more solid.&lt;/p&gt;
+&lt;p&gt;On this blog, I plan to write about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend engineering and system design&lt;/li&gt;
+&lt;li&gt;Databases and data-intensive systems&lt;/li&gt;
+&lt;li&gt;Distributed systems and reliability&lt;/li&gt;
+&lt;li&gt;Things I learn from books, courses, and real-world projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I don’t aim to be “the ultimate expert” on every topic. This blog is more about sharing my learning journey, documenting insights, and thinking out loud about complex engineering problems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
